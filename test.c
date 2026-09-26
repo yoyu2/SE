@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main(){
-    print("hell world");
+    print("hello world");
     print("and why do so?");
     return 0;
 }
