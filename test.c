@@ -1,6 +1,6 @@
 #include <stdio.h>
-void main(){
-    print("hi world");
-    print("and why do so?");
+int main(){
+    printf("h world");
+    printf("and why do so?");
     return 0;
 }
